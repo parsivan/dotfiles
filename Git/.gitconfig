@@ -1,0 +1,7 @@
+[user]
+	name = Parsa Mahmoodi
+	email = parsa.mahmoodi81@gmail.com
+[core]
+	editor = nvim
+[init]
+	defaultBranch = main

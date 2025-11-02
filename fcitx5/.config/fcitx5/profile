@@ -1,0 +1,47 @@
+[Groups/0]
+# Group Name
+Name=Default
+# Layout
+Default Layout=se
+# Default Input Method
+DefaultIM=keyboard-ir
+
+[Groups/0/Items/0]
+# Name
+Name=keyboard-se
+# Layout
+Layout=
+
+[Groups/0/Items/1]
+# Name
+Name=keyboard-us-colemak
+# Layout
+Layout=
+
+[Groups/0/Items/2]
+# Name
+Name=keyboard-ir
+# Layout
+Layout=
+
+[Groups/0/Items/3]
+# Name
+Name=pinyin
+# Layout
+Layout=se
+
+[Groups/0/Items/4]
+# Name
+Name=anthy
+# Layout
+Layout=
+
+[Groups/0/Items/5]
+# Name
+Name=keyboard-se-rus
+# Layout
+Layout=
+
+[GroupOrder]
+0=Default
+
