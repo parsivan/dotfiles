@@ -5,4 +5,5 @@ __init__.py
 qutebrowser/.config/qutebrowser/autoconfig.yml
 autoconfig.yml
 *pycache*
+history.txt
 
