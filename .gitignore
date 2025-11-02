@@ -1,0 +1,8 @@
+.zsh_history
+qutebrowser/.config/qutebrowser/rosepine/__pycache__
+__pycache__
+__init__.py
+qutebrowser/.config/qutebrowser/autoconfig.yml
+autoconfig.yml
+*pycache*
+

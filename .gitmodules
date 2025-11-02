@@ -1,0 +1,6 @@
+[submodule "qutebrowser/.config/qutebrowser/rosepine"]
+	path = qutebrowser/.config/qutebrowser/rosepine
+	url = git@github.com:parsivan/qutebrowser-rose-pine.git
+[submodule "nvim/.config/nvim"]
+	path = nvim/.config/nvim
+	url = git@github.com:parsivan/kickstart.nvim.git
